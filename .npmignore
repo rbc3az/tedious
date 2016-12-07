@@ -1,7 +1,5 @@
-src/
 test/
 examples/
-scripts/
 todo
 .*
 /scratch
